@@ -30,7 +30,11 @@ public class ClickButton : MonoBehaviour {
     }
     public void Play() {
         SceneManager.LoadScene(3);
-    }// play game
-    
-    
+    }
+
+    public void NorthScene2() {
+        SceneManager.LoadScene(4);
+    }
+
+
 }

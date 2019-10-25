@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NorthWallAR.unity
     guid: c1ed32472e7d0864dbdaf17665c41724
+  - enabled: 1
+    path: Assets/Scenes/NorthWallARScene2.unity
+    guid: ce96820d5e674f84a8ab007772435b76
   m_configObjects: {}
