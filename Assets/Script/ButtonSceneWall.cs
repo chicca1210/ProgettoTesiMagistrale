@@ -5,9 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class ButtonSceneWall : MonoBehaviour
 {
-    // Start is called before the first frame update
     public void PlayVideo() {
         SceneManager.LoadScene(2);
-    }// play game
+    }
+    public void Home() {
+        SceneManager.LoadScene(1);
+    }
+
+    
 
 }

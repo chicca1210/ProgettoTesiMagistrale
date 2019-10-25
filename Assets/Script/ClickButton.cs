@@ -29,7 +29,7 @@ public class ClickButton : MonoBehaviour {
         }    
     }
     public void Play() {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(3);
     }// play game
     
     
