@@ -12,6 +12,11 @@ public class ButtonSceneWall : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
+    public void exit()
+    {
+        Debug.Log("Exiting game");
+        Application.Quit();
+    }
     
 
 }
