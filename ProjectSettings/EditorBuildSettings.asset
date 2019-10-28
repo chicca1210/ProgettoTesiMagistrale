@@ -8,16 +8,16 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: af5eb5152feaf9547ae45957869ed9a2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARWall.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Video.unity
     guid: 979e947e1def6b34bbd9cbfbbbca4d4d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/NorthWallAR.unity
     guid: c1ed32472e7d0864dbdaf17665c41724
   - enabled: 1

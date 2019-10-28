@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class ShowAfter : MonoBehaviour
 {
-    public float time = 1f;
+    public float time;
     void Start()
     {
         gameObject.SetActive(false);
-        Invoke("HideShowGameobject", 5);
+        Invoke("HideShowGameobject", time);
     }
  
     void HideShowGameobject()
