@@ -56,9 +56,16 @@ public class ClickButton : MonoBehaviour {
     public void NorthScene5Secco() {
         SceneManager.LoadScene(11);
     }
-    public void NorthScene4Go() {
+    public void NorthScene4Go()
+    {
         SceneManager.LoadScene(12);
     }
-
-
+    public void NorthScene8()
+    {
+        SceneManager.LoadScene(13);
+    }
+    public void Wall()
+    {
+        SceneManager.LoadScene(1);
+    }
 }

@@ -47,4 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NorthWallARScene8Conservation.unity
     guid: 03640e715439db249b03e156a6c46736
+  - enabled: 1
+    path: Assets/Scenes/NorthWallARScene9.unity
+    guid: 4a8fc0b6be57e7f469a502616be9f450
   m_configObjects: {}
