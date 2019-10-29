@@ -50,9 +50,6 @@ public class ClickButton : MonoBehaviour {
     public void NorthScene3Go() {
         SceneManager.LoadScene(7);
     }
-    public void NorthScene4() {
-        SceneManager.LoadScene(5);
-    }
     public void NorthScene5Fresco() {
         SceneManager.LoadScene(10);
     }
