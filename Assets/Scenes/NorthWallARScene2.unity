@@ -261,7 +261,6 @@ GameObject:
   - component: {fileID: 54959550}
   - component: {fileID: 54959549}
   - component: {fileID: 54959548}
-  - component: {fileID: 54959547}
   m_Layer: 0
   m_Name: ButtonGo
   m_TagString: Untagged
@@ -283,19 +282,6 @@ Transform:
   m_Father: {fileID: 120606521}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
---- !u!114 &54959547
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 54959545}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  time: 6
 --- !u!114 &54959548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -303,7 +289,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 54959545}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 86b101a69ae54814e8a2a53df06d5497, type: 3}
   m_Name: 
