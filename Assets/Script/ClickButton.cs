@@ -38,8 +38,17 @@ public class ClickButton : MonoBehaviour {
     public void NorthScene2() {
         SceneManager.LoadScene(5);
     }
-    public void NorthScene3() {
+    public void NorthScene3Jpr1() {
         SceneManager.LoadScene(6);
+    }
+    public void NorthScene3Jpr2() {
+        SceneManager.LoadScene(8);
+    }
+    public void NorthScene3Jpr3() {
+        SceneManager.LoadScene(9);
+    }
+    public void NorthScene3Go() {
+        SceneManager.LoadScene(7);
     }
     public void NorthScene4() {
         SceneManager.LoadScene(5);

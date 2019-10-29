@@ -29,4 +29,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NorthWallARScene4.unity
     guid: 3150d407a06e1e646bdbfbf4aa6765ca
+  - enabled: 1
+    path: Assets/Scenes/NorthWallARScene5.unity
+    guid: 507cbb8b092e9884a99089bc42711d06
+  - enabled: 1
+    path: Assets/Scenes/NorthWallARScene4bis.unity
+    guid: 66b08052b1e6fba4ba0a40a02d5035b8
+  - enabled: 1
+    path: Assets/Scenes/NorthWallARScene4bisbis.unity
+    guid: 1a9bb0e0b0b58494d97bff0ce2c84a32
   m_configObjects: {}

@@ -25,6 +25,7 @@
         <option value="$PROJECT_DIR$/Assets/Script/ProvaTextMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ButtonSceneWall.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ShowAfter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/DestroyClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ClickButton.cs" />
       </list>
     </option>
