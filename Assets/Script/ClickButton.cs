@@ -28,12 +28,21 @@ public class ClickButton : MonoBehaviour {
             }
         }    
     }
+    //North wall
     public void Play() {
         SceneManager.LoadScene(3);
     }
-
-    public void NorthScene2() {
+    public void NorthScene1() {
         SceneManager.LoadScene(4);
+    }
+    public void NorthScene2() {
+        SceneManager.LoadScene(5);
+    }
+    public void NorthScene3() {
+        SceneManager.LoadScene(6);
+    }
+    public void NorthScene4() {
+        SceneManager.LoadScene(5);
     }
 
 

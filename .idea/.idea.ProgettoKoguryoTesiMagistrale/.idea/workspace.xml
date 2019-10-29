@@ -21,11 +21,11 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Script/Compass.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Menu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ClickButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ShowHidden.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ProvaTextMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ButtonSceneWall.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ShowAfter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ClickButton.cs" />
       </list>
     </option>
   </component>
