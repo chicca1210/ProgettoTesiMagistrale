@@ -38,4 +38,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NorthWallARScene4bisbis.unity
     guid: 1a9bb0e0b0b58494d97bff0ce2c84a32
+  - enabled: 1
+    path: Assets/Scenes/NorthWallARScene6Fresco.unity
+    guid: f3cfbdfca520b9a45a9ac986526ecd8d
+  - enabled: 1
+    path: Assets/Scenes/NorthWallARScene7Secco.unity
+    guid: 7d0bba3e1a6b2de40b580848f1d2920a
   m_configObjects: {}
