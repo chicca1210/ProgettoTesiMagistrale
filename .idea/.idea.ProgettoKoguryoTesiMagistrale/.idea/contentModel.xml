@@ -10,6 +10,9 @@
           <e p="ButtonSceneWall.cs" t="Include" />
           <e p="CameraAsBackground.cs" t="Include" />
           <e p="ClickButton.cs" t="Include" />
+          <e p="ClickButtonEast.cs" t="Include" />
+          <e p="ClickButtonSouth.cs" t="Include" />
+          <e p="ClickButtonWest.cs" t="Include" />
           <e p="Compass.cs" t="Include" />
           <e p="GyroCamera.cs" t="Include" />
           <e p="Menu.cs" t="Include" />

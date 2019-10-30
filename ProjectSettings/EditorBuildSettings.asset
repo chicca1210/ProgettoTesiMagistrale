@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NorthWallARScene9.unity
     guid: 4a8fc0b6be57e7f469a502616be9f450
+  - enabled: 1
+    path: Assets/Scenes/EastWallAR.unity
+    guid: a9e072b59398efb46b55a03e5c2e5db1
   m_configObjects: {}

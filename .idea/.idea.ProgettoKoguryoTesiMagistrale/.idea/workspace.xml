@@ -9,9 +9,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ClickButtonSouth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ClickButtonWest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ShowAfter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Menu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ButtonSceneWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ClickButtonEast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ClickButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Compass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ShowHidden.cs" root0="FORCE_HIGHLIGHTING" />
@@ -27,6 +30,9 @@
         <option value="$PROJECT_DIR$/Assets/Script/ShowAfter.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DestroyClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ClickButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ClickButtonEast.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ClickButtonSouth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ClickButtonWest.cs" />
       </list>
     </option>
   </component>
