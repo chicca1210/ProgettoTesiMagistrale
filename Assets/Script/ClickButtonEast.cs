@@ -51,10 +51,10 @@ public class ClickButtonEast : MonoBehaviour {
         SceneManager.LoadScene(20);
     }
     public void NorthScene5Fresco() {
-        SceneManager.LoadScene(10);
+        SceneManager.LoadScene(21);
     }
     public void NorthScene5Secco() {
-        SceneManager.LoadScene(11);
+        SceneManager.LoadScene(22);
     }
     public void NorthScene4Go()
     {
