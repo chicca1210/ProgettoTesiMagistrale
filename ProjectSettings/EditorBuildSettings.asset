@@ -56,4 +56,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EastWallARScene2.unity
     guid: 3bb2602e5731dc8419917eea636c2bac
+  - enabled: 1
+    path: Assets/Scenes/EastWallARScene3.unity
+    guid: 16a22c413f1097b43b0d54f852aa1e2c
+  - enabled: 1
+    path: Assets/Scenes/EastWallARScene4.unity
+    guid: 928ee6efa28292b45a5c1cd19fbdb89b
+  - enabled: 1
+    path: Assets/Scenes/EastWallARScene4bis.unity
+    guid: 02dd4b4ae73d2584dadbad49c3c2c84b
+  - enabled: 1
+    path: Assets/Scenes/EastWallARScene4bisbis.unity
+    guid: ca5b78743a6d86446849bc040d29e82c
   m_configObjects: {}

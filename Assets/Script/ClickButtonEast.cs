@@ -35,20 +35,20 @@ public class ClickButtonEast : MonoBehaviour {
     public void EastScene1() {
         SceneManager.LoadScene(15);
     }
-    public void NorthScene2() {
-        SceneManager.LoadScene(5);
+    public void EastScene2() {
+        SceneManager.LoadScene(16);
     }
-    public void NorthScene3Jpr1() {
-        SceneManager.LoadScene(6);
+    public void EastScene3Jpr1() {
+        SceneManager.LoadScene(17);
     }
-    public void NorthScene3Jpr2() {
-        SceneManager.LoadScene(8);
+    public void EastScene3Jpr2() {
+        SceneManager.LoadScene(18);
     }
-    public void NorthScene3Jpr3() {
-        SceneManager.LoadScene(9);
+    public void EastScene3Jpr3() {
+        SceneManager.LoadScene(19);
     }
-    public void NorthScene3Go() {
-        SceneManager.LoadScene(7);
+    public void EastScene3Go() {
+        SceneManager.LoadScene(20);
     }
     public void NorthScene5Fresco() {
         SceneManager.LoadScene(10);
