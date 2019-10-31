@@ -71,4 +71,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EastWallARScene5.unity
     guid: 2a4c7f9c111017e43832857b5d1b197f
+  - enabled: 1
+    path: Assets/Scenes/EastWallARScene6Fresco.unity
+    guid: bac3b9f190753d145b9d16af477fc115
+  - enabled: 1
+    path: Assets/Scenes/EastWallARScene7Secco.unity
+    guid: 484fa6d8807e7204a809b6a7c5f4320b
+  - enabled: 1
+    path: Assets/Scenes/EastWallARScene8Conservation.unity
+    guid: aef030c9d91307a438a5cfd3fd177c8d
   m_configObjects: {}
