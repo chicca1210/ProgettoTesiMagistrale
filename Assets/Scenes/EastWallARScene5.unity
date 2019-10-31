@@ -1744,7 +1744,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 868904806}
-        m_MethodName: NorthScene5Go
+        m_MethodName: EastScene5Go
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1967,7 +1967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 4
 --- !u!114 &1156163786
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3278,7 +3278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 4
 --- !u!114 &1888279382
 MonoBehaviour:
   m_ObjectHideFlags: 0
