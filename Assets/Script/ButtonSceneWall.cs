@@ -11,6 +11,9 @@ public class ButtonSceneWall : MonoBehaviour
     public void Home() {
         SceneManager.LoadScene(1);
     }
+    public void Menu() {
+        SceneManager.LoadScene(0);
+    }
 
     public void exit()
     {
