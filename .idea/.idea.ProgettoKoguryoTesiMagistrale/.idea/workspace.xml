@@ -31,8 +31,8 @@
         <option value="$PROJECT_DIR$/Assets/Script/ClickButtonSouth.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ClickButtonWest.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ClickButtonEast.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Menu.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ButtonSceneWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Menu.cs" />
       </list>
     </option>
   </component>

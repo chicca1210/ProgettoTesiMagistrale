@@ -85,5 +85,8 @@ EditorBuildSettings:
     guid: 2143fa4ceceebdf42bbeee67c7da118d
   - enabled: 1
     path: Assets/Scenes/Presentation.unity
-    guid: e099a5606a6d815409ecdf723ad0f7b6
+    guid: b0b816a816802fe4aad203e6d2f2b43b
+  - enabled: 1
+    path: Assets/Scenes/Prsentation1.unity
+    guid: c0d8e1e479c44f646b131adfbec36dab
   m_configObjects: {}
