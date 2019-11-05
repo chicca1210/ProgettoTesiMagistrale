@@ -87,6 +87,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Presentation.unity
     guid: b0b816a816802fe4aad203e6d2f2b43b
   - enabled: 1
-    path: Assets/Scenes/Prsentation1.unity
-    guid: c0d8e1e479c44f646b131adfbec36dab
+    path: Assets/Scenes/NorthFixImage.unity
+    guid: fb3c408d5cf7f1f418519ae706ea5e37
+  - enabled: 1
+    path: Assets/Scenes/EastFixImage.unity
+    guid: 194d4df2709b1ce42a29b9330868a0a7
+  - enabled: 1
+    path: Assets/Scenes/WestFixImage.unity
+    guid: 8a2ab6866ad805348aa67b1b544c65a7
+  - enabled: 1
+    path: Assets/Scenes/SouthFixImage.unity
+    guid: 9da30c6294b3f434e995eb23a7e0fd8e
   m_configObjects: {}

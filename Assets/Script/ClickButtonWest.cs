@@ -32,6 +32,9 @@ public class ClickButtonWest : MonoBehaviour {
     public void Play() {
         SceneManager.LoadScene(14);
     }
+    public void Fix() {
+        SceneManager.LoadScene(28);
+    }
     public void NorthScene1() {
         SceneManager.LoadScene(4);
     }
