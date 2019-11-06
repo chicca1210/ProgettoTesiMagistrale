@@ -131,4 +131,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SouthWallScene9.unity
     guid: 5c4f25ea9440502438ee9a82a3088693
+  - enabled: 1
+    path: Assets/Scenes/WestWallAR.unity
+    guid: 4c16d92df16ddc54cb88f02cf093347a
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene2.unity
+    guid: cdc5d8574b752734fa66c862cd8e664b
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene3.unity
+    guid: 8a9f0a205561c084ebc0d41c18681600
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene4.unity
+    guid: 7e37a3cfbdeb5304ca57c23334957544
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene4bis.unity
+    guid: e95045f8ef0bd454b80af21d18309470
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene4bisbis.unity
+    guid: f5ea8b6969a6a9d45a84253629906fbc
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene5.unity
+    guid: 64a36dfd403a8d84eb01a6b36c6a2c24
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene6Fresco.unity
+    guid: c1f978d0c58ac0344bad6d7b74458cca
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene7Secco.unity
+    guid: 3aed3eb324e686449a629a4950d4e76a
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene8Conservation.unity
+    guid: 7853b43899dfd1545acc02f8bb87f7fa
+  - enabled: 1
+    path: Assets/Scenes/WestWallARScene9.unity
+    guid: bbe107fa7396ae5499d01863ec4f95b9
   m_configObjects: {}
