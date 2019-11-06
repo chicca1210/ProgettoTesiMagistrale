@@ -19,7 +19,6 @@
           <e p="PositionImage.cs" t="Include" />
           <e p="ShowAfter.cs" t="Include" />
           <e p="ShowHidden.cs" t="Include" />
-          <e p="Zoom.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Examples &amp; Extras" t="Include">

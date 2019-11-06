@@ -28,44 +28,44 @@ public class ClickButtonSouth : MonoBehaviour {
             }
         }    
     }
-    //North wall
+    //South wall
     public void Play() {
-        SceneManager.LoadScene(14);
+        SceneManager.LoadScene(30);
     }
     public void Fix() {
         SceneManager.LoadScene(29);
     }
-    public void NorthScene1() {
-        SceneManager.LoadScene(4);
+    public void SouthScene1() {
+        SceneManager.LoadScene(31);
     }
-    public void NorthScene2() {
-        SceneManager.LoadScene(5);
+    public void SouthScene2() {
+        SceneManager.LoadScene(32);
     }
-    public void NorthScene3Jpr1() {
-        SceneManager.LoadScene(6);
+    public void SouthScene3Jpr1() {
+        SceneManager.LoadScene(33);
     }
-    public void NorthScene3Jpr2() {
-        SceneManager.LoadScene(8);
+    public void SouthScene3Jpr2() {
+        SceneManager.LoadScene(34);
     }
-    public void NorthScene3Jpr3() {
-        SceneManager.LoadScene(9);
+    public void SouthScene3Jpr3() {
+        SceneManager.LoadScene(35);
     }
-    public void NorthScene3Go() {
-        SceneManager.LoadScene(7);
+    public void SouthScene3Go() {
+        SceneManager.LoadScene(36);
     }
-    public void NorthScene5Fresco() {
-        SceneManager.LoadScene(10);
+    public void SouthScene5Fresco() {
+        SceneManager.LoadScene(37);
     }
-    public void NorthScene5Secco() {
-        SceneManager.LoadScene(11);
+    public void SouthScene5Secco() {
+        SceneManager.LoadScene(38);
     }
-    public void NorthScene4Go()
+    public void SouthScene4Go()
     {
-        SceneManager.LoadScene(12);
+        SceneManager.LoadScene(39);
     }
-    public void NorthScene8()
+    public void SouthScene8()
     {
-        SceneManager.LoadScene(13);
+        SceneManager.LoadScene(40);
     }
     public void Wall()
     {

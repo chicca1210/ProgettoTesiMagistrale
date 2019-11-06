@@ -15,7 +15,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Script/Menu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ButtonSceneWall.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ClickButtonEast.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Zoom.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ClickButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Compass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ShowHidden.cs" root0="FORCE_HIGHLIGHTING" />
@@ -33,8 +32,8 @@
         <option value="$PROJECT_DIR$/Assets/Script/ClickButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ClickButtonEast.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ClickButtonWest.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ClickButtonSouth.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Zoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ClickButtonSouth.cs" />
       </list>
     </option>
   </component>

@@ -98,4 +98,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SouthFixImage.unity
     guid: 9da30c6294b3f434e995eb23a7e0fd8e
+  - enabled: 1
+    path: Assets/Scenes/SouthWallAR.unity
+    guid: 414a4e0b2c467054990a37cb795d3999
+  - enabled: 1
+    path: Assets/Scenes/SouthWallARScene2.unity
+    guid: eddb5b0af50703b45bbda06bebe5d5d1
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene3.unity
+    guid: 2a2352b9b409c62468df08f905e96773
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene4.unity
+    guid: 982088bb519cf484b939c4caec8926bc
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene4bis.unity
+    guid: 61143da45b0a50f429231d0d48cdb2fa
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene4bisbis.unity
+    guid: 9d67dbfce1b2bb644bbba895c0f91816
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene5.unity
+    guid: 28e66358a77fc8a41b8112f5ea3d17c3
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene6Fresco.unity
+    guid: fc0cd2f4a270bc64b85692c230a8a5a7
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene7Secco.unity
+    guid: ec743753da3de434786c2fd8318742ae
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene8Consevation.unity
+    guid: bd6091957d4417440a3f0e31d3891c2a
   m_configObjects: {}
