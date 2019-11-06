@@ -128,4 +128,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SouthWallScene8Consevation.unity
     guid: bd6091957d4417440a3f0e31d3891c2a
+  - enabled: 1
+    path: Assets/Scenes/SouthWallScene9.unity
+    guid: 5c4f25ea9440502438ee9a82a3088693
   m_configObjects: {}

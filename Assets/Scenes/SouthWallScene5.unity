@@ -904,7 +904,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 4
 --- !u!114 &797230553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2472,8 +2472,8 @@ GameObject:
   - component: {fileID: 1818519794}
   - component: {fileID: 1818519793}
   - component: {fileID: 1818519792}
-  - component: {fileID: 1818519791}
   - component: {fileID: 1818519790}
+  - component: {fileID: 1818519791}
   m_Layer: 0
   m_Name: ButtonFresco
   m_TagString: Untagged
@@ -2503,7 +2503,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1818519789}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86b101a69ae54814e8a2a53df06d5497, type: 3}
+  m_Script: {fileID: 11500000, guid: f0db9406b4cf14741ab25eea7438e038, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   definedButton: {fileID: 1818519789}
@@ -2511,7 +2511,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1818519791}
-        m_MethodName: NorthScene5Fresco
+        m_MethodName: SouthScene5Fresco
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2826,8 +2826,8 @@ GameObject:
   - component: {fileID: 1895683763}
   - component: {fileID: 1895683762}
   - component: {fileID: 1895683761}
-  - component: {fileID: 1895683760}
   - component: {fileID: 1895683759}
+  - component: {fileID: 1895683760}
   m_Layer: 0
   m_Name: ButtonSecco
   m_TagString: Untagged
@@ -2857,7 +2857,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1895683758}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86b101a69ae54814e8a2a53df06d5497, type: 3}
+  m_Script: {fileID: 11500000, guid: f0db9406b4cf14741ab25eea7438e038, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   definedButton: {fileID: 1895683758}
@@ -2865,7 +2865,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1895683760}
-        m_MethodName: NorthScene5Secco
+        m_MethodName: SouthScene5Secco
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

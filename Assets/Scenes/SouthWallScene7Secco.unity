@@ -132,7 +132,6 @@ GameObject:
   - component: {fileID: 145527671}
   - component: {fileID: 145527670}
   - component: {fileID: 145527669}
-  - component: {fileID: 145527668}
   m_Layer: 0
   m_Name: Plane (1)
   m_TagString: Untagged
@@ -154,19 +153,6 @@ Transform:
   m_Father: {fileID: 307451824}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &145527668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 145527666}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  time: 2
 --- !u!64 &145527669
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -292,7 +278,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 230003459}
-        m_MethodName: SouthScene4Go
+        m_MethodName: SouthScene3Go
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -592,7 +578,6 @@ GameObject:
   - component: {fileID: 534673164}
   - component: {fileID: 534673163}
   - component: {fileID: 534673162}
-  - component: {fileID: 534673161}
   m_Layer: 0
   m_Name: Plane (1)
   m_TagString: Untagged
@@ -614,19 +599,6 @@ Transform:
   m_Father: {fileID: 307451824}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &534673161
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 534673159}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  time: 2
 --- !u!64 &534673162
 MeshCollider:
   m_ObjectHideFlags: 0
