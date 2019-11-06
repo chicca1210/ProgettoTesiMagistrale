@@ -570,7 +570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 0
 --- !u!212 &152221906
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1425,7 +1425,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 0
+  time: 2
 --- !u!64 &466605973
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1889,7 +1889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 0
 --- !u!212 &795862874
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2581,7 +2581,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 0
 --- !u!212 &1608640441
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2675,7 +2675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 0
 --- !u!212 &1751251471
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2769,7 +2769,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 0
 --- !u!212 &1755427677
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3113,7 +3113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 1
 --- !u!64 &1884453181
 MeshCollider:
   m_ObjectHideFlags: 0

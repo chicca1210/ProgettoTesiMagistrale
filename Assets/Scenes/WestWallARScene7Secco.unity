@@ -562,7 +562,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 2
+  time: 0
 --- !u!64 &408040814
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -733,7 +733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 0
 --- !u!212 &595860364
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2370,7 +2370,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 2
+  time: 0
 --- !u!64 &1544701304
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2568,7 +2568,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a3220b8ea458db4182b4689f5eeb3fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 6
+  time: 0
 --- !u!212 &1589309349
 SpriteRenderer:
   m_ObjectHideFlags: 0
