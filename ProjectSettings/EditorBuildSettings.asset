@@ -84,7 +84,7 @@ EditorBuildSettings:
     path: Assets/Scenes/EastWallARScene9.unity
     guid: 2143fa4ceceebdf42bbeee67c7da118d
   - enabled: 1
-    path: Assets/Scenes/Presentation.unity
+    path: Assets/Scenes/Information.unity
     guid: b0b816a816802fe4aad203e6d2f2b43b
   - enabled: 1
     path: Assets/Scenes/NorthFixImage.unity

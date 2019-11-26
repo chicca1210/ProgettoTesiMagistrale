@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
  */ 
 public class Menu : MonoBehaviour {
 
-    // start a new game
+    // Load a new Scene
     public void Play() {
         SceneManager.LoadScene(1);
     }// play game
@@ -17,8 +17,8 @@ public class Menu : MonoBehaviour {
     public void Quit() {
         Debug.Log("Exiting game");
         Application.Quit();
-    }// Quit
-    
+    }
+    //  Load a new Scene
     public void Info() {
         SceneManager.LoadScene(25);
     }
